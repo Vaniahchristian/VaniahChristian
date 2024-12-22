@@ -4,9 +4,9 @@
 Just here, casually writing code because… well, someone’s gotta make the future work. 😎✨
 
 ### Technical Expertise
-- **AI & Machine Learning
-- **Mobile App Development
-- **Web Development
+- AI & Machine Learning
+- Mobile App Development
+- Web Development
 
 ### Key Technologies 
 - **Languages**: 
